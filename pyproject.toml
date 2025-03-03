@@ -24,7 +24,7 @@ coverage = ">=7.0"
 click = ">=8.1"
 
 [tool.poetry.group.dev.dependencies]
-pytest = "^8.3.3"
+pytest = "^8.3.5"
 coverage = "^7.6.1"
 click = ">=8.1"
 
