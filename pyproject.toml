@@ -46,7 +46,7 @@ testpaths = [
 [project.optional-dependencies]
 tests = [
     "pytest~=8.3.4",
-    "pytest-cov==6.0.0",
+    "pytest-cov==7.1.0",
     "pytest-mock==3.14.0",
     "junit-xml>=1.9",
     "click>=8.1",
